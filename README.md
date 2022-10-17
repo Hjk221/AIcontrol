@@ -11,7 +11,7 @@
   * 초등학교: [삼학초등학교](https://mokposamhak.es.jne.kr/user/indexMain.action?siteId=mokposamhak_es)
   * 중학교: ~~목포 제일중학교~~, [남산중학교](http://namsan-m.gne.go.kr/namsan-m/main.do)
   * 고등학교: [기계공업고등학교](http://yongzi-h.gne.go.kr/yongzi-h/main.do)
-    * 학과: 메키트로닉스과
+    * 학과: 메트로닉스과
   *  대학교: 창원 폴리텍
      * 학과: 스마트펙토리과
   
