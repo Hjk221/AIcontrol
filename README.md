@@ -2,9 +2,10 @@
 ## 나의 첫 *마크다운*
 ### 자기소개
 >이름: 김현준
->>나이: 21세
->>>성별: 남자
->>>>나의 *github*링크: <https://github.com/Hjk221>
+>>학번: 2217110193
+>>>나이: 21세
+>?>>성별: 남자
+>>>>>나의 *github*링크: <https://github.com/Hjk221>
 
 * 학력
   * 초등학교: [삼학초등학교](https://mokposamhak.es.jne.kr/user/indexMain.action?siteId=mokposamhak_es)
