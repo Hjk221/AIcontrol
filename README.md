@@ -4,6 +4,7 @@
 >이름: 김현준
 >>나이: 21세
 >>>성별: 남자
+>>>>나의 *github*링크: <https://github.com/Hjk221>
 
 * 학력
   * 초등학교: [삼학초등학교](https://mokposamhak.es.jne.kr/user/indexMain.action?siteId=mokposamhak_es)
@@ -20,3 +21,6 @@
    2|공유압 기능사|2020|09.25|
    3|전자기기 기능사|2020|07.10|
    4|컴퓨터응용밀링 기능사|2019|09.20|
+
+여기까지 저의 마크다운 입니다!!
+![Alt text](
